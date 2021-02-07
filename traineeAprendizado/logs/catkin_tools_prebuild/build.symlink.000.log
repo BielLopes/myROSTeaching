@@ -1,0 +1,12 @@
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/./local_setup.zsh
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/./setup.sh
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/./setup.bash
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/./env.sh
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/./local_setup.bash
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/./_setup_util.py
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/./setup.zsh
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/./local_setup.sh
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/./cmake.lock
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/lib/pkgconfig/catkin_tools_prebuild.pc

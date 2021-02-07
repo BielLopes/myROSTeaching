@@ -1,0 +1,5 @@
+testRospy
+/home/gabriel/ros/avantTrainee/devel/.private/testRospy/cmake.lock /home/gabriel/ros/avantTrainee/devel/./cmake.lock
+/home/gabriel/ros/avantTrainee/devel/.private/testRospy/share/testRospy/cmake/testRospyConfig-version.cmake /home/gabriel/ros/avantTrainee/devel/share/testRospy/cmake/testRospyConfig-version.cmake
+/home/gabriel/ros/avantTrainee/devel/.private/testRospy/share/testRospy/cmake/testRospyConfig.cmake /home/gabriel/ros/avantTrainee/devel/share/testRospy/cmake/testRospyConfig.cmake
+/home/gabriel/ros/avantTrainee/devel/.private/testRospy/lib/pkgconfig/testRospy.pc /home/gabriel/ros/avantTrainee/devel/lib/pkgconfig/testRospy.pc

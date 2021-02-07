@@ -1,0 +1,1 @@
+/home/gabriel/ros/avantTrainee/devel/.private/testRospy/lib/pkgconfig/testRospy.pc

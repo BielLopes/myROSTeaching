@@ -1,0 +1,1 @@
+/home/gabriel/ros/traineeAprendizado/devel/.private/aprendizado/share/gennodejs/ros/aprendizado/msg/Num.js

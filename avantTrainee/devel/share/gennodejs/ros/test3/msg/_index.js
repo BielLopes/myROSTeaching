@@ -1,0 +1,1 @@
+/home/gabriel/ros/avantTrainee/devel/.private/test3/share/gennodejs/ros/test3/msg/_index.js

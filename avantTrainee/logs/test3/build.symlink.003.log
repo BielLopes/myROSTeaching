@@ -1,0 +1,18 @@
+Symlinking /home/gabriel/ros/avantTrainee/devel/include/test3/Num.h
+Symlinking /home/gabriel/ros/avantTrainee/devel/share/gennodejs/ros/test3/_index.js
+Symlinking /home/gabriel/ros/avantTrainee/devel/share/gennodejs/ros/test3/msg/Num.js
+Symlinking /home/gabriel/ros/avantTrainee/devel/share/gennodejs/ros/test3/msg/_index.js
+Symlinking /home/gabriel/ros/avantTrainee/devel/share/roseus/ros/test3/manifest.l
+Symlinking /home/gabriel/ros/avantTrainee/devel/share/roseus/ros/test3/msg/Num.l
+Symlinking /home/gabriel/ros/avantTrainee/devel/share/common-lisp/ros/test3/msg/Num.lisp
+Symlinking /home/gabriel/ros/avantTrainee/devel/share/common-lisp/ros/test3/msg/_package.lisp
+Symlinking /home/gabriel/ros/avantTrainee/devel/share/common-lisp/ros/test3/msg/_package_Num.lisp
+Symlinking /home/gabriel/ros/avantTrainee/devel/share/common-lisp/ros/test3/msg/test3-msg.asd
+Symlinking /home/gabriel/ros/avantTrainee/devel/share/test3/cmake/test3-msg-extras.cmake
+Linked: (/home/gabriel/ros/avantTrainee/devel/.private/test3/share/test3/cmake/test3Config-version.cmake, /home/gabriel/ros/avantTrainee/devel/share/test3/cmake/test3Config-version.cmake)
+Linked: (/home/gabriel/ros/avantTrainee/devel/.private/test3/share/test3/cmake/test3Config.cmake, /home/gabriel/ros/avantTrainee/devel/share/test3/cmake/test3Config.cmake)
+Symlinking /home/gabriel/ros/avantTrainee/devel/share/test3/cmake/test3-msg-paths.cmake
+Linked: (/home/gabriel/ros/avantTrainee/devel/.private/test3/lib/pkgconfig/test3.pc, /home/gabriel/ros/avantTrainee/devel/lib/pkgconfig/test3.pc)
+Symlinking /home/gabriel/ros/avantTrainee/devel/lib/python2.7/dist-packages/test3/__init__.py
+Symlinking /home/gabriel/ros/avantTrainee/devel/lib/python2.7/dist-packages/test3/msg/_Num.py
+Symlinking /home/gabriel/ros/avantTrainee/devel/lib/python2.7/dist-packages/test3/msg/__init__.py

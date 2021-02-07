@@ -1,0 +1,8 @@
+prefix=/home/gabriel/ros/avantTrainee/devel/.private/test3
+
+Name: test3
+Description: Description of test3
+Version: 0.0.0
+Cflags: -I/home/gabriel/ros/avantTrainee/devel/.private/test3/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs message_runtime

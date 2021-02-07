@@ -1,0 +1,1 @@
+/home/gabriel/ros/avantTrainee/devel/.private/test3/share/roseus/ros/test3/msg/Num.l

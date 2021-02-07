@@ -1,0 +1,8 @@
+prefix=/home/gabriel/ros/avantTrainee/install
+
+Name: testRospy
+Description: Description of testRospy
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,18 @@
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/include/aprendizado/Num.h
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/share/gennodejs/ros/aprendizado/_index.js
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/share/gennodejs/ros/aprendizado/msg/Num.js
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/share/gennodejs/ros/aprendizado/msg/_index.js
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/share/roseus/ros/aprendizado/manifest.l
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/share/roseus/ros/aprendizado/msg/Num.l
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/share/aprendizado/cmake/aprendizado-msg-extras.cmake
+Linked: (/home/gabriel/ros/traineeAprendizado/devel/.private/aprendizado/share/aprendizado/cmake/aprendizadoConfig.cmake, /home/gabriel/ros/traineeAprendizado/devel/share/aprendizado/cmake/aprendizadoConfig.cmake)
+Linked: (/home/gabriel/ros/traineeAprendizado/devel/.private/aprendizado/share/aprendizado/cmake/aprendizadoConfig-version.cmake, /home/gabriel/ros/traineeAprendizado/devel/share/aprendizado/cmake/aprendizadoConfig-version.cmake)
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/share/aprendizado/cmake/aprendizado-msg-paths.cmake
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/share/common-lisp/ros/aprendizado/msg/aprendizado-msg.asd
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/share/common-lisp/ros/aprendizado/msg/Num.lisp
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/share/common-lisp/ros/aprendizado/msg/_package.lisp
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/share/common-lisp/ros/aprendizado/msg/_package_Num.lisp
+Linked: (/home/gabriel/ros/traineeAprendizado/devel/.private/aprendizado/lib/pkgconfig/aprendizado.pc, /home/gabriel/ros/traineeAprendizado/devel/lib/pkgconfig/aprendizado.pc)
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/lib/python2.7/dist-packages/aprendizado/__init__.py
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/lib/python2.7/dist-packages/aprendizado/msg/_Num.py
+Symlinking /home/gabriel/ros/traineeAprendizado/devel/lib/python2.7/dist-packages/aprendizado/msg/__init__.py

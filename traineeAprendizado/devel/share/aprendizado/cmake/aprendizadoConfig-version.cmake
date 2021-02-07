@@ -1,0 +1,1 @@
+/home/gabriel/ros/traineeAprendizado/devel/.private/aprendizado/share/aprendizado/cmake/aprendizadoConfig-version.cmake

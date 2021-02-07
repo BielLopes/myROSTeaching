@@ -1,0 +1,1 @@
+/home/gabriel/ros/avantTrainee/devel/.private/catkin_tools_prebuild/env.sh

@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/gabriel/ros/traineeAprendizado/devel/include/**",
+        "/home/gabriel/workspace/devel/include/**",
+        "/home/gabriel/mrs_workspace/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/gabriel/workspace/src/example_ros_packages/ros_packages/example_ros_pluginlib/example_manager/include/**",
+        "/home/gabriel/workspace/src/hector_slam/hector_geotiff/include/**",
+        "/home/gabriel/workspace/src/hector_slam/hector_map_tools/include/**",
+        "/home/gabriel/workspace/src/hector_slam/hector_mapping/include/**",
+        "/home/gabriel/workspace/src/hector_slam/hector_marker_drawing/include/**",
+        "/home/gabriel/mrs_workspace/src/uav_core/ros_packages/mavros/libmavconn/include/**",
+        "/home/gabriel/mrs_workspace/src/simulation/ros_packages/mavlink_sitl_gazebo/include/**",
+        "/home/gabriel/mrs_workspace/src/uav_core/ros_packages/mavros/mavros/include/**",
+        "/home/gabriel/mrs_workspace/src/uav_core/ros_packages/mavros/mavros_msgs/include/**",
+        "/home/gabriel/mrs_workspace/src/simulation/ros_packages/mrs_gazebo_common_resources/include/**",
+        "/home/gabriel/mrs_workspace/src/uav_core/ros_packages/mrs_lib/include/**",
+        "/home/gabriel/mrs_workspace/src/uav_core/ros_packages/mrs_rviz_plugins/include/**",
+        "/home/gabriel/mrs_workspace/src/uav_core/ros_packages/mrs_uav_controllers/include/**",
+        "/home/gabriel/mrs_workspace/src/uav_core/ros_packages/mrs_uav_managers/include/**",
+        "/home/gabriel/mrs_workspace/src/uav_core/ros_packages/mrs_uav_odometry/include/**",
+        "/home/gabriel/mrs_workspace/src/uav_core/ros_packages/mrs_uav_status/include/**",
+        "/home/gabriel/mrs_workspace/src/uav_core/ros_packages/mrs_uav_trackers/include/**",
+        "/home/gabriel/mrs_workspace/src/uav_core/ros_packages/mavros/test_mavros/include/**",
+        "/home/gabriel/workspace/src/example_ros_packages/ros_packages/example_ros_vision/include/**",
+        "/home/gabriel/workspace/src/example_ros_packages/ros_packages/example_ros_uav/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}

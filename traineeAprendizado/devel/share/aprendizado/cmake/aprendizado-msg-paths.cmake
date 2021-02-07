@@ -1,0 +1,1 @@
+/home/gabriel/ros/traineeAprendizado/devel/.private/aprendizado/share/aprendizado/cmake/aprendizado-msg-paths.cmake

@@ -1,0 +1,1 @@
+/home/gabriel/ros/avantTrainee/devel/.private/test3/lib/python2.7/dist-packages/test3/msg/_Object.py

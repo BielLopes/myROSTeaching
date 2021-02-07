@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gabriel/ros/avantTrainee/devel/.private/catkin_tools_prebuild/setup.sh

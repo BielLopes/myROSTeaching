@@ -1,0 +1,6 @@
+devel_space: /home/gabriel/ros/traineeAprendizado/devel
+install: false
+install_space: /home/gabriel/ros/traineeAprendizado/install
+profile: default
+source_space: /home/gabriel/ros/traineeAprendizado/src
+workspace: /home/gabriel/ros/traineeAprendizado

@@ -1,0 +1,6 @@
+devel_space: /home/gabriel/ros/avantTrainee/devel
+install: false
+install_space: /home/gabriel/ros/avantTrainee/install
+profile: reldeb
+source_space: /home/gabriel/ros/avantTrainee/src
+workspace: /home/gabriel/ros/avantTrainee
